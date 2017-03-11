@@ -20,3 +20,10 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function ovnerInfo() {
+	info = 'Hi, here you have owner personal data:' + '\n' +
+		'=====' 		+ '\n' +
+		'Name: Wiktor' 		+ '\n' +
+		'Surname: Kozak' 	+ '\n' +
+}
